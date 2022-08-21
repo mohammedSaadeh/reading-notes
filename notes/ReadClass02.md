@@ -22,11 +22,11 @@
 
 ## What is the big difference between props and state?
 
--The big deffrence between props and state is that props you pass into a component and state is handle inside of that component and props handled outside the component.
+-The big difference between props and state is that props you pass into a component and state is handle inside of that component and props handled outside the component.
 
 ## When do we re-render our application?
 
--When we change the state inside of our application or the props outsied the application.
+-When we change the state inside of our application or the props outside the application.
 
 ## What are some examples of things that we could store in state?
 

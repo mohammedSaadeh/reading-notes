@@ -10,6 +10,6 @@
 
 [01:Introduction to React and Components.](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass01.md)
 
-[01:State and Props.]()
+[02:State and Props.](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass02.md)
 
 ## **Code 401 - ==Advanced Software Development==**
