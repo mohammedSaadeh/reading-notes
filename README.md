@@ -8,6 +8,8 @@
 
 ## **Code 301 - ==Intermediate Software Development==**
 
-[Readings: Introduction to React and Components.](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass01.md)
+[01:Introduction to React and Components.](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass01.md)
+
+[01:State and Props.]()
 
 ## **Code 401 - ==Advanced Software Development==**

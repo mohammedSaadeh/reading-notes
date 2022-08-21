@@ -1,4 +1,4 @@
-# **Readings: Introduction to React and Components.**
+# **Introduction to React and Components.**
 
 React is a JavaScript library, ts aim is to allow developers to easily create fast user interfaces for websites and applications alike.
 
