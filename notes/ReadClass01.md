@@ -6,7 +6,7 @@ React is a JavaScript library, ts aim is to allow developers to easily create fa
 
 a component is a JavaScript class or function that optionally accepts inputs and returns a React element that describes how a section of the User Interface should appear.
 
-## What is a component?
+## What are the characteristics of a "component"?
 
 1-Reusability:
 
