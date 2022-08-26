@@ -14,6 +14,8 @@
 
 [03:Passing Functions as Props](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass03.md)\
 
-[04:React and Forms](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass03.md)
+[04:React and Forms](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass04.md)
+
+[05:React and Forms](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass04.md)
 
 ## **Code 401 - ==Advanced Software Development==**
