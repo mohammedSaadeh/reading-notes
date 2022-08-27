@@ -18,6 +18,6 @@
 
 [05:Putting it all together](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass05.md)
 
-[06:NODE.JS](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass05.md)
+[06:NODE.JS](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass06.md)
 
 ## **Code 401 - ==Advanced Software Development==**
