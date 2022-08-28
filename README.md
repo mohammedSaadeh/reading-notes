@@ -20,4 +20,6 @@
 
 [06:NODE.JS](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass06.md)
 
+[07:REST](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass06.md)
+
 ## **Code 401 - ==Advanced Software Development==**
