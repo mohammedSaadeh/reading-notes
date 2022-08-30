@@ -22,6 +22,6 @@
 
 [07:REST](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass07.md)
 
-[08:APIs](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass07.md)
+[08:APIs](https://github.com/mohammedSaadeh/reading-notes/blob/main/notes/ReadClass08.md)
 
 ## **Code 401 - ==Advanced Software Development==**
